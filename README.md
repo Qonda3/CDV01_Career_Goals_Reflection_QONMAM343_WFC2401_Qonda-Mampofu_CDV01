@@ -34,22 +34,36 @@ By completing this reflection, you will gain a clearer understanding of your car
     - Identify skills you need to develop or improve.
     - Javascript
     - Figma
-    - git and github
+    - Git and GitHub
     - React
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
+    - Creating and implementing the user interface of a website or application using languages such as HTML, CSS, and JavaScript. I enjoy creative process, making the websites aestheticalyy pleasing and also ensuring they operate seamlessly and efficiently.
     - What values are important to you in a work environment?
+    - Important values for me in a work environment include teamwork, respect, communication, innovation, and integrity. Having a healthy working culture that inspires everyone to grow.
 
 ### Part 2: Career Exploration Insights
 
-1. **Industries and Roles Explored**:
+1. c**:
     
     - List the industries or roles you have researched.
+    - Digital Marketing Companies
+    - User Experience (UX) Design
+    - Educational Technology
+    - Web Development Agencies
+    - FinTech
     - Note any particular areas that piqued your interest.
+    - FinTech
+    - Web Development Agencies
+    - Digital Marketing Companies
+    - Educational Technology
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
+    - I'm good at understanding and creating text for websites. This helps me design user interfaces, write interesting website content, and explain complicated stuff clearly.
+    - I'm passionate about creating expiriences for humans, technology and digital innovation. Working in fields like web development, digital marketing, and educational technology allows me to explore these interests while contributing to user-friendly digital solutions
+    - I value creativity, collaboration, and innovation. These industries foster dynamic, team-oriented environments where creativity and innovation are encouraged to solve challenges and enhance user experiences.
     - Identify any gaps or areas for further exploration.
 
 ### Part 3: SMART Career Goals
