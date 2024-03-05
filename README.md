@@ -16,17 +16,26 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name: Qonda**
+- **Date: Mampofu**
+- **Current Role/Position: Student**
+- **Field of Interest: Front-end development**
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
+    - CSS
+    - HTML
+    - Javascript
+    - Tailwind
+    - Version control and GitHub 
     - Identify skills you need to develop or improve.
+    - Javascript
+    - Figma
+    - git and github
+    - React
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
